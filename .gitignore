@@ -1,0 +1,13 @@
+# Executables & Binaries
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# Build directories
+build/
+bin/
+cmake-build-*/
+.vscode/
+.vs/
